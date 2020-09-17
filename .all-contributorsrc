@@ -1,0 +1,20 @@
+{
+  "projectName": "contributors",
+  "projectOwner": "openclimatefix",
+  "repoType": "github",
+  "repoHost": "https://github.com/openclimatefix/contributors",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "gitmoji",
+  "contributors": [{
+    "login": "dantravers",
+    "name": "Dan Travers",
+    "avatar_url": "https://raw.githubusercontent.com/openclimatefix/website/master/src/images/people/dan.jpg",
+    "profile": "https://openclimatefix.org/#member-dan",
+    "contributions": ["business", "content", "ideas"]
+  }],
+  "contributorsPerLine": 7
+}

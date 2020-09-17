@@ -1,0 +1,45 @@
+name: Retrieve latest Contributors
+
+on:
+  schedule:
+   # At 4am every night
+   - cron:  '0 4 * * *'
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    name: Fetch latest Contributors
+    steps:
+    - name: Get Contributors
+      id: getcontri
+      uses: openclimatefix/merge-all-contributors@v1.0.3
+      with:
+        orgName: 'openclimatefix'
+    # Use the output from the `getcontri` step
+    - name: Print Contributors
+      run: |
+        echo "We found these contributors:"
+        echo "${{ steps.getcontri.outputs.contributors }}"
+    - uses: actions/checkout@v2
+    - name: Write to file
+      run: |
+        echo '{"projectName":"contributors","projectOwner":"openclimatefix","repoType":"github","repoHost":"https://github.com/openclimatefix/contributors","files":["README.md"],"imageSize":100,"commit":true,"commitConvention":"gitmoji","contributors":${{steps.getcontri.outputs.contributors}},"contributorsPerLine":7}' > .all-contributorsrc-master
+    - name: Echo again
+      run: cat .all-contributorsrc-master
+    - uses: actions/setup-node@v1
+      with:
+        node-version: '12'
+    - name: Install All-Contributors CLI
+      run: yarn
+    - name: Update README
+      run: yarn all-contributors --config .all-contributorsrc-master generate
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        # Required
+        commit_message: 👥 Add latest contributors
+
+        # Optional commit user and author settings
+        commit_user_name: ocf-bot
+        commit_user_email: info@openclimatefix.org
+        commit_author: ocf-bot <info@openclimatefix.org>
+  

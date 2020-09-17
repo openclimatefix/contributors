@@ -1,0 +1,9 @@
+{
+  "name": "contributors",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "all-contributors-cli": "^6.17.3"
+  }
+}
