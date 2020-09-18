@@ -1,6 +1,6 @@
 # Contributors
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Collection of all contributors of Open Climate Fix.
 
@@ -29,6 +29,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://grantbourque.com"><img src="https://avatars1.githubusercontent.com/u/616290?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Grant Bourque</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=grantbdev" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/dfulu"><img src="https://avatars0.githubusercontent.com/u/41546094?v=4?s=100" width="100px;" alt=""/><br /><sub><b>James Fulton</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=dfulu" title="Code">💻</a> <a href="#ideas-dfulu" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="http://tom-e-white.com"><img src="https://avatars3.githubusercontent.com/u/85085?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tom White</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=tomwhite" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://openclimatefix.org/#member-dan"><img src="https://raw.githubusercontent.com/openclimatefix/website/master/src/images/people/dan.jpg?s=100" width="100px;" alt=""/><br /><sub><b>Dan Travers</b></sub></a><br /><a href="#business-dantravers" title="Business development">💼</a> <a href="#content-dantravers" title="Content">🖋</a> <a href="#ideas-dantravers" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
