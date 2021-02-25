@@ -1,6 +1,7 @@
 name: Retrieve latest Contributors
 
 on:
+  workflow_dispatch:
   schedule:
    # At 4am every night
    - cron:  '0 4 * * *'
