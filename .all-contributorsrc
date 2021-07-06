@@ -15,6 +15,18 @@
     "avatar_url": "https://raw.githubusercontent.com/openclimatefix/website/master/src/images/people/dan.jpg",
     "profile": "https://openclimatefix.org/#member-dan",
     "contributions": ["business", "content", "ideas"]
+  }, {
+    "login": "AyrtonB",
+    "name": "Ayrton Bourn",
+    "avatar_url": "https://avatars.githubusercontent.com/u/29051639?s=96&v=4",
+    "profile": "https://github.com/AyrtonB",
+    "contributions": ["code"]
+  }, {
+    "login": "jacobbieker",
+    "name": "Jacob Bieker",
+    "avatar_url": "https://github.com/jacobbieker",
+    "profile": "https://github.com/jacobbieker",
+    "contributions": ["code"]
   }],
   "contributorsPerLine": 7
 }
