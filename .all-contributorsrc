@@ -18,13 +18,13 @@
   }, {
     "login": "AyrtonB",
     "name": "Ayrton Bourn",
-    "avatar_url": "https://avatars.githubusercontent.com/u/29051639?s=96&v=4",
+    "avatar_url": "https://avatars.githubusercontent.com/u/29051639",
     "profile": "https://github.com/AyrtonB",
     "contributions": ["code"]
   }, {
     "login": "jacobbieker",
     "name": "Jacob Bieker",
-    "avatar_url": "https://github.com/jacobbieker",
+    "avatar_url": "https://avatars.githubusercontent.com/u/7170359",
     "profile": "https://github.com/jacobbieker",
     "contributions": ["code"]
   }],
