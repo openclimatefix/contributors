@@ -20,7 +20,7 @@ jobs:
     - name: Print Contributors
       run: |
         echo "We found these contributors:"
-        echo "${{ steps.getcontri.outputs.contributors }}"
+#        echo "${{ steps.getcontri.outputs.contributors }}"
     - uses: actions/checkout@v2
     - name: Write to file
       run: |
