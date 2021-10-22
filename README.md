@@ -1,6 +1,6 @@
 # Contributors
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-35-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-39-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Collection of all contributors of Open Climate Fix.
 
@@ -56,6 +56,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/gabrieltseng"><img src="https://avatars.githubusercontent.com/u/29063740?s=100" width="100px;" alt=""/><br /><sub><b>Gabriel Tseng</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=gabrieltseng" title="Code">💻</a></td>
     <td align="center"><a href="https://gitlab.com/solomoncotton"><img src="https://secure.gravatar.com/avatar/0c9101e4dd5b293dbb2dad01a15ed95a?s=800&d=identicon?s=100" width="100px;" alt=""/><br /><sub><b>Sol Cotton</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=solomoncotton" title="Code">💻</a></td>
     <td align="center"><a href="https://gitlab.com/karanmukhi"><img src="https://secure.gravatar.com/avatar/607c414a7ce09991c2485b1871643ffe?s=800&d=identicon?s=100" width="100px;" alt=""/><br /><sub><b>Karan Mukhi</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=karanmukhi" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/peterdudfield"><img src="https://avatars.githubusercontent.com/u/34686298?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Peter Dudfield</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=peterdudfield" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.jacobbieker.com"><img src="https://avatars.githubusercontent.com/u/7170359?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jacob Bieker</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=jacobbieker" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/mdfaisal98"><img src="https://avatars.githubusercontent.com/u/64960915?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mohammed Faisal</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=mdfaisal98" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/OBITORASU"><img src="https://avatars.githubusercontent.com/u/65222459?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Souhit Dey</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=OBITORASU" title="Code">💻</a></td>
   </tr>
 </table>
 
