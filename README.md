@@ -1,6 +1,6 @@
 # Contributors
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-53-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-54-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Collection of all contributors of Open Climate Fix.
 
@@ -77,6 +77,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/OBITORASU"><img src="https://avatars.githubusercontent.com/u/65222459?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Souhit Dey</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=OBITORASU" title="Code">💻</a></td>
+    <td align="center"><a href="http://www.sixte.demaupeou.com"><img src="https://avatars.githubusercontent.com/u/17206983?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sixte de Maupeou</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=sixtedemaupeou" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/mukhikaran"><img src="https://avatars.githubusercontent.com/u/25258935?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Karan Mukhi</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=mukhikaran" title="Code">💻</a> <a href="#content-mukhikaran" title="Content">🖋</a> <a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=mukhikaran" title="Documentation">📖</a> <a href="#design-mukhikaran" title="Design">🎨</a> <a href="#ideas-mukhikaran" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://gitlab.com/schmidt_fu"><img src="https://secure.gravatar.com/avatar/37e69d38663faea402f79bcb22702e30?s=100" width="100px;" alt=""/><br /><sub><b>Florian Schmidt</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=schmidt_fu" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/lordsonfernando"><img src="https://avatars.githubusercontent.com/u/68499565?v=4?s=100" width="100px;" alt=""/><br /><sub><b>lordsonfernando</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=lordsonfernando" title="Code">💻</a></td>
