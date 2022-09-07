@@ -1,6 +1,6 @@
 # Contributors
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-61-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-62-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Collection of all contributors of Open Climate Fix.
 
@@ -90,6 +90,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://gitlab.com/schmidt_fu"><img src="https://secure.gravatar.com/avatar/37e69d38663faea402f79bcb22702e30?s=100" width="100px;" alt=""/><br /><sub><b>Florian Schmidt</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=schmidt_fu" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/lordsonfernando"><img src="https://avatars.githubusercontent.com/u/68499565?v=4?s=100" width="100px;" alt=""/><br /><sub><b>lordsonfernando</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=lordsonfernando" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/gmlyth"><img src="https://avatars.githubusercontent.com/u/88547342?v=4?s=100" width="100px;" alt=""/><br /><sub><b>gmlyth</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=gmlyth" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/rachel-labri-tipton"><img src="https://avatars.githubusercontent.com/u/86949265?v=4?s=100" width="100px;" alt=""/><br /><sub><b>rachel tipton</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=rachel-labri-tipton" title="Code">💻</a></td>
   </tr>
 </table>
 
