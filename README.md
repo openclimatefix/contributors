@@ -1,6 +1,6 @@
 # Contributors
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-78-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-79-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Collection of all contributors of Open Climate Fix.
 
@@ -105,13 +105,14 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/lordsonfernando"><img src="https://avatars.githubusercontent.com/u/68499565?v=4?s=100" width="100px;" alt=""/><br /><sub><b>lordsonfernando</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=lordsonfernando" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/gmlyth"><img src="https://avatars.githubusercontent.com/u/88547342?v=4?s=100" width="100px;" alt=""/><br /><sub><b>gmlyth</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=gmlyth" title="Code">💻</a></td>
+    <td align="center"><a href="http://lostcoding.com"><img src="https://avatars.githubusercontent.com/u/20285369?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Brandon Ly</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=branberry" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/byphilipp"><img src="https://avatars.githubusercontent.com/u/59995258?v=4?s=100" width="100px;" alt=""/><br /><sub><b>byphilipp</b></sub></a><br /><a href="#ideas-byphilipp" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="http://iki.fi/markus.kaukonen"><img src="https://avatars.githubusercontent.com/u/6195764?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Markus Kaukonen</b></sub></a><br /><a href="#question-paapu88" title="Answering Questions">💬</a></td>
     <td align="center"><a href="https://github.com/MoHawastaken"><img src="https://avatars.githubusercontent.com/u/55447473?v=4?s=100" width="100px;" alt=""/><br /><sub><b>MoHawastaken</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/issues?q=author%3AMoHawastaken" title="Bug reports">🐛</a></td>
     <td align="center"><a href="http://www.ecmwf.int"><img src="https://avatars.githubusercontent.com/u/47196359?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mihai</b></sub></a><br /><a href="#question-mishooax" title="Answering Questions">💬</a></td>
-    <td align="center"><a href="https://github.com/Jacqueline-J"><img src="https://avatars.githubusercontent.com/u/108654780?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jacqueline-J</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=Jacqueline-J" title="Code">💻</a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/Jacqueline-J"><img src="https://avatars.githubusercontent.com/u/108654780?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jacqueline-J</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=Jacqueline-J" title="Code">💻</a></td>
     <td align="center"><a href="https://rdrn.me/"><img src="https://avatars.githubusercontent.com/u/19817302?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Chris Arderne</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=carderne" title="Code">💻</a></td>
   </tr>
 </table>
