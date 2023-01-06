@@ -1,6 +1,6 @@
 # Contributors
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-81-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-82-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Collection of all contributors of Open Climate Fix.
 
@@ -114,6 +114,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/MoHawastaken"><img src="https://avatars.githubusercontent.com/u/55447473?v=4?s=100" width="100px;" alt=""/><br /><sub><b>MoHawastaken</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/issues?q=author%3AMoHawastaken" title="Bug reports">🐛</a></td>
     <td align="center"><a href="http://www.ecmwf.int"><img src="https://avatars.githubusercontent.com/u/47196359?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mihai</b></sub></a><br /><a href="#question-mishooax" title="Answering Questions">💬</a></td>
+    <td align="center"><a href="https://github.com/vitusbenson"><img src="https://avatars.githubusercontent.com/u/33334860?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vitus Benson</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/issues?q=author%3Avitusbenson" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://github.com/Jacqueline-J"><img src="https://avatars.githubusercontent.com/u/108654780?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jacqueline-J</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=Jacqueline-J" title="Code">💻</a></td>
     <td align="center"><a href="https://rdrn.me/"><img src="https://avatars.githubusercontent.com/u/19817302?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Chris Arderne</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=carderne" title="Code">💻</a></td>
   </tr>
