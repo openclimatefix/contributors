@@ -1,6 +1,6 @@
 # Contributors
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-82-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-83-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Collection of all contributors of Open Climate Fix.
 
@@ -106,12 +106,13 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://gitlab.com/schmidt_fu"><img src="https://secure.gravatar.com/avatar/37e69d38663faea402f79bcb22702e30?s=100" width="100px;" alt=""/><br /><sub><b>Florian Schmidt</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=schmidt_fu" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/lordsonfernando"><img src="https://avatars.githubusercontent.com/u/68499565?v=4?s=100" width="100px;" alt=""/><br /><sub><b>lordsonfernando</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=lordsonfernando" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/gmlyth"><img src="https://avatars.githubusercontent.com/u/88547342?v=4?s=100" width="100px;" alt=""/><br /><sub><b>gmlyth</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=gmlyth" title="Code">💻</a></td>
+    <td align="center"><a href="https://bio.link/klj"><img src="https://avatars.githubusercontent.com/u/2559382?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Keenan Johnson</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=keenanjohnson" title="Documentation">📖</a></td>
     <td align="center"><a href="http://lostcoding.com"><img src="https://avatars.githubusercontent.com/u/20285369?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Brandon Ly</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=branberry" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/lucasc896"><img src="https://avatars.githubusercontent.com/u/1273006?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Chris Lucas</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=lucasc896" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/byphilipp"><img src="https://avatars.githubusercontent.com/u/59995258?v=4?s=100" width="100px;" alt=""/><br /><sub><b>byphilipp</b></sub></a><br /><a href="#ideas-byphilipp" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="http://iki.fi/markus.kaukonen"><img src="https://avatars.githubusercontent.com/u/6195764?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Markus Kaukonen</b></sub></a><br /><a href="#question-paapu88" title="Answering Questions">💬</a></td>
   </tr>
   <tr>
+    <td align="center"><a href="http://iki.fi/markus.kaukonen"><img src="https://avatars.githubusercontent.com/u/6195764?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Markus Kaukonen</b></sub></a><br /><a href="#question-paapu88" title="Answering Questions">💬</a></td>
     <td align="center"><a href="https://github.com/MoHawastaken"><img src="https://avatars.githubusercontent.com/u/55447473?v=4?s=100" width="100px;" alt=""/><br /><sub><b>MoHawastaken</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/issues?q=author%3AMoHawastaken" title="Bug reports">🐛</a></td>
     <td align="center"><a href="http://www.ecmwf.int"><img src="https://avatars.githubusercontent.com/u/47196359?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mihai</b></sub></a><br /><a href="#question-mishooax" title="Answering Questions">💬</a></td>
     <td align="center"><a href="https://github.com/vitusbenson"><img src="https://avatars.githubusercontent.com/u/33334860?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vitus Benson</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/issues?q=author%3Avitusbenson" title="Bug reports">🐛</a></td>
