@@ -1,6 +1,6 @@
 # Contributors
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-86-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-92-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Collection of all contributors of Open Climate Fix.
 
@@ -123,6 +123,14 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/ericcccsliu"><img src="https://avatars.githubusercontent.com/u/62641231?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Eric Liu</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=ericcccsliu" title="Code">💻</a></td>
     <td align="center"><a href="http://andrewlester.net"><img src="https://avatars.githubusercontent.com/u/23221268?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Andrew Lester</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=AndrewLester" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/neha-vard"><img src="https://avatars.githubusercontent.com/u/80798381?v=4?s=100" width="100px;" alt=""/><br /><sub><b>neha-vard</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=neha-vard" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/anyaparekh"><img src="https://avatars.githubusercontent.com/u/49364484?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anya Parekh</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=anyaparekh" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/rohanvan123"><img src="https://avatars.githubusercontent.com/u/67704979?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rohan Vanjani</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=rohanvan123" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/jackypark9852"><img src="https://avatars.githubusercontent.com/u/81858354?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jacky Park</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=jackypark9852" title="Code">💻</a></td>
+    <td align="center"><a href="http://ashayp.com"><img src="https://avatars.githubusercontent.com/u/21179174?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ashay Parikh</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=ashayp22" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.kalynwatt.com/"><img src="https://images.squarespace-cdn.com/content/v1/6330cf626aba27472c9abe80/12e48df1-eb9e-4710-93fb-62811d3cbb9d/tempImagedpidYQ.jpg?format=500w?s=100" width="100px;" alt=""/><br /><sub><b>Kalyn Watt</b></sub></a><br /><a href="#design" title="Design">🎨</a></td>
   </tr>
 </table>
 
