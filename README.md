@@ -1,6 +1,6 @@
 # Contributors
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-107-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-110-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Collection of all contributors of Open Climate Fix.
 
@@ -150,6 +150,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="http://ashayp.com"><img src="https://avatars.githubusercontent.com/u/21179174?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ashay Parikh</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=ashayp22" title="Code">💻</a></td>
     <td align="center"><a href="https://www.kalynwatt.com/"><img src="https://images.squarespace-cdn.com/content/v1/6330cf626aba27472c9abe80/12e48df1-eb9e-4710-93fb-62811d3cbb9d/tempImagedpidYQ.jpg?format=500w?s=100" width="100px;" alt=""/><br /><sub><b>Kalyn Watt</b></sub></a><br /><a href="#design" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/zakwatts"><img src="https://avatars.githubusercontent.com/u/47150349?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Megawattz</b></sub></a><br /><a href="#ideas-zakwatts" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/EdFage"><img src="https://avatars.githubusercontent.com/u/87755165?v=4?s=100" width="100px;" alt=""/><br /><sub><b>EdFage</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=EdFage" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/chloepilonv"><img src="https://avatars.githubusercontent.com/u/136987461?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Chloe Pilon Vaillancourt</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=chloepilonv" title="Documentation">📖</a></td>
   </tr>
 </table>
 
