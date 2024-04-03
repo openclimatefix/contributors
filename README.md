@@ -1,6 +1,6 @@
 # Contributors
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-128-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-130-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Collection of all contributors of Open Climate Fix.
 
@@ -171,12 +171,14 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/chloepilonv"><img src="https://avatars.githubusercontent.com/u/136987461?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Chloe Pilon Vaillancourt</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=chloepilonv" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/armenbod"><img src="https://avatars.githubusercontent.com/u/84937223?v=4?s=100" width="100px;" alt=""/><br /><sub><b>armenbod</b></sub></a><br /><a href="#content-armenbod" title="Content">🖋</a> <a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=armenbod" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/shreyasudaya"><img src="https://avatars.githubusercontent.com/u/94735680?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Shreyas Udaya</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=shreyasudaya" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://github.com/aryanbhosale"><img src="https://avatars.githubusercontent.com/u/36108149?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aryan Bhosale</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=aryanbhosale" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://github.com/aryanbhosale"><img src="https://avatars.githubusercontent.com/u/36108149?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aryan Bhosale</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=aryanbhosale" title="Documentation">📖</a> <a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=aryanbhosale" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/0xFrama"><img src="https://avatars.githubusercontent.com/u/30957828?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Francesco</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=0xFrama" title="Code">💻</a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Hapyr"><img src="https://avatars.githubusercontent.com/u/23398802?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jakob Gebler</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/issues?q=author%3AHapyr" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://github.com/ombhojane"><img src="https://avatars.githubusercontent.com/u/82753658?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Om Bhojane</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=ombhojane" title="Code">💻</a></td>
+    <td align="center"><a href="http://chrisadams.me.uk"><img src="https://avatars.githubusercontent.com/u/17906?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Chris Adams</b></sub></a><br /><a href="#ideas-mrchrisadams" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/mudrap17"><img src="https://avatars.githubusercontent.com/u/76879120?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mudra Patel</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=mudrap17" title="Documentation">📖</a></td>
   </tr>
 </table>
 
