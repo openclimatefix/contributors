@@ -1,6 +1,6 @@
 # Contributors
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-136-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-139-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Collection of all contributors of Open Climate Fix.
 
@@ -187,6 +187,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/ombhojane"><img src="https://avatars.githubusercontent.com/u/82753658?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Om Bhojane</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=ombhojane" title="Code">💻</a></td>
     <td align="center"><a href="http://chrisadams.me.uk"><img src="https://avatars.githubusercontent.com/u/17906?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Chris Adams</b></sub></a><br /><a href="#ideas-mrchrisadams" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/mudrap17"><img src="https://avatars.githubusercontent.com/u/76879120?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mudra Patel</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=mudrap17" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/diegomarvid"><img src="https://avatars.githubusercontent.com/u/33181424?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Diego Marvid</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=diegomarvid" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/froukje"><img src="https://avatars.githubusercontent.com/u/10419258?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Frauke Albrecht</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=froukje" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Ludecan"><img src="https://avatars.githubusercontent.com/u/17169248?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pablo Alfaro</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/pulls?q=is%3Apr+reviewed-by%3ALudecan" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 
