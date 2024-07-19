@@ -1,6 +1,6 @@
 # Contributors
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-148-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-149-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Collection of all contributors of Open Climate Fix.
 
@@ -17,7 +17,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/ssmssam"><img src="https://avatars.githubusercontent.com/u/39378848?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sam Murphy-Sugrue</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=ssmssam" title="Code">💻</a></td>
     <td align="center"><a href="https://gabrieltseng.github.io/"><img src="https://avatars.githubusercontent.com/u/29063740?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gabriel Tseng</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=gabrieltseng" title="Code">💻</a></td>
     <td align="center"><a href="http://www.solar.sheffield.ac.uk/"><img src="https://avatars.githubusercontent.com/u/12187350?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jamie Taylor</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=JamieTaylor-TUOS" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/peterdudfield"><img src="https://avatars.githubusercontent.com/u/34686298?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Peter Dudfield</b></sub></a><br /><a href="#infra-peterdudfield" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=peterdudfield" title="Documentation">📖</a> <a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=peterdudfield" title="Code">💻</a> <a href="#projectManagement-peterdudfield" title="Project Management">📆</a> <a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/pulls?q=is%3Apr+reviewed-by%3Apeterdudfield" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/peterdudfield"><img src="https://avatars.githubusercontent.com/u/34686298?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Peter Dudfield</b></sub></a><br /><a href="#infra-peterdudfield" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=peterdudfield" title="Documentation">📖</a> <a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=peterdudfield" title="Code">💻</a> <a href="#maintenance-peterdudfield" title="Maintenance">🚧</a> <a href="#projectManagement-peterdudfield" title="Project Management">📆</a> <a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/pulls?q=is%3Apr+reviewed-by%3Apeterdudfield" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/vnshanmukh"><img src="https://avatars.githubusercontent.com/u/67438038?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Shanmukh Chava</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=vnshanmukh" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Antsthebul"><img src="https://avatars.githubusercontent.com/u/56587872?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Antsthebul</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=Antsthebul" title="Code">💻</a></td>
   </tr>
@@ -203,6 +203,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/KelRem"><img src="https://avatars.githubusercontent.com/u/175075550?v=4?s=100" width="100px;" alt=""/><br /><sub><b>KelRem</b></sub></a><br /><a href="#question-KelRem" title="Answering Questions">💬</a></td>
+    <td align="center"><a href="https://github.com/sicunchen"><img src="https://avatars.githubusercontent.com/u/14258987?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Lia Chen</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=sicunchen" title="Code">💻</a></td>
   </tr>
 </table>
 
