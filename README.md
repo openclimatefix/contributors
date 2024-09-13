@@ -1,6 +1,6 @@
 # Contributors
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-153-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-154-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Collection of all contributors of Open Climate Fix.
 
@@ -207,6 +207,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/sicunchen"><img src="https://avatars.githubusercontent.com/u/14258987?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Lia Chen</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=sicunchen" title="Code">💻</a></td>
     <td align="center"><a href="https://clementlumumba.netlify.app/"><img src="https://avatars.githubusercontent.com/u/43673340?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Clement Lumumba</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=Clemo97" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/aayushyatiwari"><img src="https://avatars.githubusercontent.com/u/169576527?v=4?s=100" width="100px;" alt=""/><br /><sub><b>aayush</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=aayushyatiwari" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Brohan7524"><img src="https://avatars.githubusercontent.com/u/85754035?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rohan Singh</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=Brohan7524" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/yousefsawy"><img src="https://avatars.githubusercontent.com/u/99139949?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yousef Elsawy</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=yousefsawy" title="Documentation">📖</a></td>
   </tr>
 </table>
