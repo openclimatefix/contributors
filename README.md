@@ -1,6 +1,6 @@
 # Contributors
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-157-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-158-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Collection of all contributors of Open Climate Fix.
 
@@ -212,6 +212,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/yousefsawy"><img src="https://avatars.githubusercontent.com/u/99139949?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yousef Elsawy</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=yousefsawy" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Sigma-Verma"><img src="https://avatars.githubusercontent.com/u/131307209?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Utkarsh Verma</b></sub></a><br /><a href="#maintenance-Sigma-Verma" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://github.com/AUdaltsova"><img src="https://avatars.githubusercontent.com/u/43303448?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alexandra Udaltsova</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=AUdaltsova" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/VikramsDataScience"><img src="https://avatars.githubusercontent.com/u/45002417?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vikram Pande</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=VikramsDataScience" title="Code">💻</a></td>
   </tr>
