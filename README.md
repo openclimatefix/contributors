@@ -1,6 +1,6 @@
 # Contributors
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-161-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-162-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Collection of all contributors of Open Climate Fix.
 
@@ -215,8 +215,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Brohan7524"><img src="https://avatars.githubusercontent.com/u/85754035?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rohan Singh</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=Brohan7524" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/sumana-2705"><img src="https://avatars.githubusercontent.com/u/110307215?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sumana Sree Angajala</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=sumana-2705" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/EmilyIsCoding"><img src="https://avatars.githubusercontent.com/u/98443131?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Emily</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=EmilyIsCoding" title="Tests">⚠️</a></td>
+    <td align="center"><a href="https://github.com/sergejlazuk"><img src="https://avatars.githubusercontent.com/u/33606741?v=4?s=100" width="100px;" alt=""/><br /><sub><b>sergejla</b></sub></a><br /><a href="#question-sergejlazuk" title="Answering Questions">💬</a></td>
     <td align="center"><a href="https://github.com/yousefsawy"><img src="https://avatars.githubusercontent.com/u/99139949?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yousef Elsawy</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=yousefsawy" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/AUdaltsova"><img src="https://avatars.githubusercontent.com/u/43303448?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alexandra Udaltsova</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=AUdaltsova" title="Code">💻</a></td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://github.com/VikramsDataScience"><img src="https://avatars.githubusercontent.com/u/45002417?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vikram Pande</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=VikramsDataScience" title="Code">💻</a></td>
   </tr>
 </table>
