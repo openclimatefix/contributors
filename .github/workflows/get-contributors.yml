@@ -13,7 +13,7 @@ jobs:
     steps:
     - name: Get Contributors
       id: getcontri
-      uses: openclimatefix/merge-all-contributors@v1.0.4
+      uses: openclimatefix/merge-all-contributors@v1.0.5
       with:
         orgName: 'openclimatefix'
     # Use the output from the `getcontri` step
