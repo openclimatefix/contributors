@@ -1,6 +1,6 @@
 # Contributors
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-212-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-213-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Collection of all contributors of Open Climate Fix.
 
@@ -285,6 +285,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://cortesi.com/"><img src="https://avatars.githubusercontent.com/u/1512016?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Simone Cortesi</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=cortesimone" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/kevin851066"><img src="https://avatars.githubusercontent.com/u/35548541?v=4?s=100" width="100px;" alt=""/><br /><sub><b>KevinPan</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=kevin851066" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://ajitashwathr.vercel.app"><img src="https://avatars.githubusercontent.com/u/141044380?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ajit.</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=ajitashwathr10" title="Documentation">📖</a></td>
   </tr>
 </table>
 
