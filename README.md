@@ -1,6 +1,6 @@
 # Contributors
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-221-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-222-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Collection of all contributors of Open Climate Fix.
 
@@ -288,10 +288,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/ManzoorAhmedShaikh"><img src="https://avatars.githubusercontent.com/u/110716002?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Manzoor Ahmed Shaikh</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=ManzoorAhmedShaikh" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/pjireland"><img src="https://avatars.githubusercontent.com/u/16693035?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Peter Ireland</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=pjireland" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/rahul-ahuja"><img src="https://avatars.githubusercontent.com/u/21355015?v=4?s=100" width="100px;" alt=""/><br /><sub><b>rahul-ahuja</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=rahul-ahuja" title="Code">💻</a></td>
+    <td align="center"><a href="https://rahul-joon.github.io/My-Website/"><img src="https://avatars.githubusercontent.com/u/61495262?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rahul Joon</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=Rahul-JOON" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/jcamier"><img src="https://avatars.githubusercontent.com/u/14153557?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jack Camier</b></sub></a><br /><a href="#ideas-jcamier" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://github.com/arzoo0511"><img src="https://avatars.githubusercontent.com/u/148741922?v=4?s=100" width="100px;" alt=""/><br /><sub><b>arzoo0511</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=arzoo0511" title="Documentation">📖</a> <a href="#research-arzoo0511" title="Research">🔬</a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/arzoo0511"><img src="https://avatars.githubusercontent.com/u/148741922?v=4?s=100" width="100px;" alt=""/><br /><sub><b>arzoo0511</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=arzoo0511" title="Documentation">📖</a> <a href="#research-arzoo0511" title="Research">🔬</a></td>
     <td align="center"><a href="https://cortesi.com/"><img src="https://avatars.githubusercontent.com/u/1512016?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Simone Cortesi</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=cortesimone" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/kevin851066"><img src="https://avatars.githubusercontent.com/u/35548541?v=4?s=100" width="100px;" alt=""/><br /><sub><b>KevinPan</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=kevin851066" title="Documentation">📖</a></td>
     <td align="center"><a href="http://ajitashwathr.vercel.app"><img src="https://avatars.githubusercontent.com/u/141044380?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ajit.</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=ajitashwathr10" title="Documentation">📖</a></td>
