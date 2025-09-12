@@ -1,6 +1,6 @@
 # Contributors
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-242-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-243-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Collection of all contributors of Open Climate Fix.
 
@@ -235,7 +235,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://www.kalynwatt.com/"><img src="https://images.squarespace-cdn.com/content/v1/6330cf626aba27472c9abe80/12e48df1-eb9e-4710-93fb-62811d3cbb9d/tempImagedpidYQ.jpg?format=500w?s=100" width="100px;" alt=""/><br /><sub><b>Kalyn Watt</b></sub></a><br /><a href="#design" title="Design">🎨</a></td>
     <td align="center"><a href="https://github.com/ADIMANV"><img src="https://avatars.githubusercontent.com/u/68527614?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aditya Sawant</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=ADIMANV" title="Code">💻</a> <a href="#research-ADIMANV" title="Research">🔬</a></td>
     <td align="center"><a href="https://github.com/AnujNayak108"><img src="https://avatars.githubusercontent.com/u/86143398?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anuj Nayak</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=AnujNayak108" title="Code">💻</a></td>
-    <td align="center"><a href="http://www.linkedin.com/in/ram-from-tvl"><img src="https://avatars.githubusercontent.com/u/114728749?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ramkumar R</b></sub></a><br /><a href="#infra-ram-from-tvl" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=ram-from-tvl" title="Code">💻</a></td>
+    <td align="center"><a href="http://www.linkedin.com/in/ram-from-tvl"><img src="https://avatars.githubusercontent.com/u/114728749?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ramkumar R</b></sub></a><br /><a href="#infra-ram-from-tvl" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=ram-from-tvl" title="Code">💻</a> <a href="#design-ram-from-tvl" title="Design">🎨</a></td>
   </tr>
   <tr>
     <td align="center"><a href="http://mvanderbroek.com"><img src="https://avatars.githubusercontent.com/u/6012624?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mark van der Broek</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=markkvdb" title="Documentation">📖</a></td>
@@ -323,6 +323,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://sumana-2705.github.io/Sumana-Portfolio/"><img src="https://avatars.githubusercontent.com/u/110307215?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sumana Sree Angajala</b></sub></a><br /><a href="#infra-sumana-2705" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
     <td align="center"><a href="https://github.com/EricS02"><img src="https://avatars.githubusercontent.com/u/124088002?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Erics</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=EricS02" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/KamathAnjali"><img src="https://avatars.githubusercontent.com/u/178002997?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anjali Kamath</b></sub></a><br /><a href="#content-KamathAnjali" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/ritkaarsingh30"><img src="https://avatars.githubusercontent.com/u/85431642?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ritkaar Singh</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=ritkaarsingh30" title="Code">💻</a></td>
   </tr>
 </table>
 
