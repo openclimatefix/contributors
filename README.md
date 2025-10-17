@@ -1,6 +1,6 @@
 # Contributors
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-217-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-219-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Collection of all contributors of Open Climate Fix.
 
@@ -290,6 +290,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/KamathAnjali"><img src="https://avatars.githubusercontent.com/u/178002997?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anjali Kamath</b></sub></a><br /><a href="#content-KamathAnjali" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/ritkaarsingh30"><img src="https://avatars.githubusercontent.com/u/85431642?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ritkaar Singh</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=ritkaarsingh30" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/sonata22"><img src="https://avatars.githubusercontent.com/u/112934863?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nataliia Sosnovshchenko</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=sonata22" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://waltermichelraja.netlify.app/"><img src="https://avatars.githubusercontent.com/u/85942041?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Walter Michel Raja</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=waltermichelraja" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Sagarpillai"><img src="https://avatars.githubusercontent.com/u/217882826?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sagar K Pillai</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=Sagarpillai" title="Code">💻</a></td>
   </tr>
 </table>
 
