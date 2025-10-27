@@ -16,7 +16,7 @@ jobs:
       uses: openclimatefix/merge-all-contributors@v1.0.9
       with:
         orgName: 'openclimatefix'
-    - name: Get Contributors
+    - name: Get Contributors - archives
       id: getcontriarchives
       uses: openclimatefix/merge-all-contributors@v1.0.9
       with:
@@ -30,7 +30,8 @@ jobs:
     - uses: actions/checkout@v2
     - name: Write to file
       run: |
-        echo '{"projectName":"contributors","projectOwner":"openclimatefix","repoType":"github","repoHost":"https://github.com/openclimatefix/contributors","files":["README.md"],"imageSize":100,"commit":true,"commitConvention":"gitmoji","contributors":${{steps.getcontri.outputs.contributors}},"contributorsPerLine":7}' > .all-contributorsrc-main
+        MERGED_JSON=$(jq -s '[group_by(.login)[] | add| .contributions = (map(.contributions) | add | unique)]' ${{steps.getcontriarchives.outputs.contributors}} ${{steps.getcontri.outputs.contributors}})
+        echo '{"projectName":"contributors","projectOwner":"openclimatefix","repoType":"github","repoHost":"https://github.com/openclimatefix/contributors","files":["README.md"],"imageSize":100,"commit":true,"commitConvention":"gitmoji","contributors":'$MERGED_JSON',"contributorsPerLine":7}' > .all-contributorsrc-main
     - name: Echo again
       run: cat .all-contributorsrc-main
     - uses: actions/setup-node@v1
