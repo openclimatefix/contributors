@@ -34,7 +34,7 @@ jobs:
         echo "DONE B.JSON"
         echo '${{ steps.getcontri.outputs.contributors }}' > a.json
         echo "DONE A.JSON"
-        MERGED_JSON=$(jq -s '[group_by(.login)[] | add | .contributions = (map(.contributions) | add | unique)]' a.json b.json)
+        MERGED_JSON=$(jq -s '[group_by(.login)[] | add | .contributions = (map(.contributions) | add | unique)]' b.json a.json)
         echo "Done merged JSON"
         echo '{"projectName":"contributors","projectOwner":"openclimatefix","repoType":"github","repoHost":"https://github.com/openclimatefix/contributors","files":["README.md"],"imageSize":100,"commit":true,"commitConvention":"gitmoji","contributors":'$MERGED_JSON',"contributorsPerLine":7}' > .all-contributorsrc-main
     - name: Echo again
