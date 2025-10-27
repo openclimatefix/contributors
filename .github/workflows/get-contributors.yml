@@ -30,8 +30,8 @@ jobs:
     - uses: actions/checkout@v2
     - name: Write to file
       run: |
-        echo '${{ steps.getcontri.outputs.contributors }}' > a.json
         echo '${{ steps.getcontriarchives.outputs.contributors }}' > b.json
+        echo '${{ steps.getcontri.outputs.contributors }}' > a.json
         MERGED_JSON=$(jq -s '[group_by(.login)[] | add | .contributions = (map(.contributions) | add | unique)]' a.json b.json) 
         echo '{"projectName":"contributors","projectOwner":"openclimatefix","repoType":"github","repoHost":"https://github.com/openclimatefix/contributors","files":["README.md"],"imageSize":100,"commit":true,"commitConvention":"gitmoji","contributors":'$MERGED_JSON',"contributorsPerLine":7}' > .all-contributorsrc-main
     - name: Echo again
