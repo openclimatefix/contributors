@@ -16,6 +16,11 @@ jobs:
       uses: openclimatefix/merge-all-contributors@v1.0.9
       with:
         orgName: 'openclimatefix'
+    - name: Get Contributors
+      id: getcontri-archives
+      uses: openclimatefix/merge-all-contributors@v1.0.9
+      with:
+        orgName: 'openclimatefix-archives'
     # Use the output from the `getcontri` step
     - name: Print Contributors
       run: |
