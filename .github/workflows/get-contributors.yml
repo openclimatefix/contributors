@@ -17,7 +17,7 @@ jobs:
       with:
         orgName: 'openclimatefix'
     - name: Get Contributors
-      id: getcontri-archives
+      id: getcontriarchives
       uses: openclimatefix/merge-all-contributors@v1.0.9
       with:
         orgName: 'openclimatefix-archives'
@@ -26,6 +26,7 @@ jobs:
       run: |
         echo "We found these contributors:"
         echo "${{ steps.getcontri.outputs.contributors }}"
+        echo "${{ steps.getcontriarchives.outputs.contributors }}"
     - uses: actions/checkout@v2
     - name: Write to file
       run: |
