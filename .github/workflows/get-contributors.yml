@@ -31,10 +31,24 @@ jobs:
     - name: Write to file
       run: |
         echo '${{ steps.getcontriarchives.outputs.contributors }}' > b.json
-        echo "DONE B.JSON"
         echo '${{ steps.getcontri.outputs.contributors }}' > a.json
-        echo "DONE A.JSON"
-        MERGED_JSON=$(jq -s '[add | group_by(.login)[] | add | .contributions = (map(.contributions) | add | unique)]' b.json a.json)
+        jq -s add a.json b.json >> c.json
+        jq 'map(reduce .contributions[] as $c (.; .["contributions_\($c)"]="yes") | del(.contributions))' c.json >> d.json
+        jq 'group_by(.login, .name, .avatar_url, .profile) | map(reduce .[] as $item ({}; . + $item))' d.json >> e.json
+        MERGED_JSON=$(jq 'map(
+          {
+            login,
+            name,
+            avatar_url,
+            profile,
+            contributions: [ 
+              to_entries[] 
+              | select(.key | startswith("contributions_")) 
+              | select(.value=="yes") 
+              | .key[14:]  # remove "contributions_" prefix
+            ]
+          }
+        )' e.json)
         echo "Done merged JSON"
         echo '{"projectName":"contributors","projectOwner":"openclimatefix","repoType":"github","repoHost":"https://github.com/openclimatefix/contributors","files":["README.md"],"imageSize":100,"commit":true,"commitConvention":"gitmoji","contributors":'$MERGED_JSON',"contributorsPerLine":7}' > .all-contributorsrc-main
     - name: Echo again
