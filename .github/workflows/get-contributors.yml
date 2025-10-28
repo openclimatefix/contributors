@@ -49,6 +49,7 @@ jobs:
             ]
           }
         )' e.json)
+        rm a.json b.json c.json d.json e.json
         echo "Done merged JSON"
         echo '{"projectName":"contributors","projectOwner":"openclimatefix","repoType":"github","repoHost":"https://github.com/openclimatefix/contributors","files":["README.md"],"imageSize":100,"commit":true,"commitConvention":"gitmoji","contributors":'$MERGED_JSON',"contributorsPerLine":7}' > .all-contributorsrc-main
     - name: Echo again
