@@ -30,11 +30,16 @@ jobs:
     - uses: actions/checkout@v2
     - name: Write to file
       run: |
+        # 1. Save to two files
         echo '${{ steps.getcontriarchives.outputs.contributors }}' > b.json
         echo '${{ steps.getcontri.outputs.contributors }}' > a.json
+        # 2. join the two files together
         jq -s add a.json b.json >> c.json
+        # 3. flatten contributions array into individual keys
         jq 'map(reduce .contributions[] as $c (.; .["contributions_\($c)"]="yes") | del(.contributions))' c.json >> d.json
+        # 4. Group by login
         jq 'group_by(.login, .name, .avatar_url, .profile) | map(reduce .[] as $item ({}; . + $item))' d.json >> e.json
+        # 5. # Change contributions keys back to list
         MERGED_JSON=$(jq 'map(
           {
             login,
@@ -49,8 +54,9 @@ jobs:
             ]
           }
         )' e.json)
+        # remove files, so they dont get committed to the repo
         rm a.json b.json c.json d.json e.json
-        echo "Done merged JSON"
+        # create the all-contributorsrc file
         echo '{"projectName":"contributors","projectOwner":"openclimatefix","repoType":"github","repoHost":"https://github.com/openclimatefix/contributors","files":["README.md"],"imageSize":100,"commit":true,"commitConvention":"gitmoji","contributors":'$MERGED_JSON',"contributorsPerLine":7}' > .all-contributorsrc-main
     - name: Echo again
       run: cat .all-contributorsrc-main
