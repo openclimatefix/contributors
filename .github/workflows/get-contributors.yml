@@ -38,7 +38,7 @@ jobs:
         # 3. flatten contributions array into individual keys
         jq 'map(reduce .contributions[] as $c (.; .["contributions_\($c)"]="yes") | del(.contributions))' c.json >> d.json
         # 4. Group by login, so contributors from openclimatefix and openclimatefix-archives get merged
-        jq 'group_by(.login, .name) | map(reduce .[] as $item ({}; . + $item))' d.json >> e.json
+        jq 'group_by(.login) | map(reduce .[] as $item ({}; . + $item))' d.json >> e.json
         # 5. # Change contributions keys back to list
         MERGED_JSON=$(jq 'map(
           {
