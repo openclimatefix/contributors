@@ -1,6 +1,6 @@
 # Contributors
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-244-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-245-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Collection of all contributors of Open Climate Fix.
 
@@ -320,6 +320,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/wsharpe41"><img src="https://avatars.githubusercontent.com/u/122390836?v=4?s=100" width="100px;" alt=""/><br /><sub><b>wsharpe41</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=wsharpe41" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/xingzihai"><img src="https://avatars.githubusercontent.com/u/87858694?v=4?s=100" width="100px;" alt=""/><br /><sub><b>冰水泡枸杞</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=xingzihai" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/yousefsawy"><img src="https://avatars.githubusercontent.com/u/99139949?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yousef Elsawy</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=yousefsawy" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/yuvraajnarula"><img src="https://avatars.githubusercontent.com/u/49155095?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yuvraaj Narula</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=yuvraajnarula" title="Documentation">📖</a> <a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=yuvraajnarula" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/zakwatts"><img src="https://avatars.githubusercontent.com/u/47150349?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Megawattz</b></sub></a><br /><a href="https://github.com/openclimatefix/contributors/openclimatefix/contributors/commits?author=zakwatts" title="Code">💻</a> <a href="#ideas-zakwatts" title="Ideas, Planning, & Feedback">🤔</a> <a href="#talk-zakwatts" title="Talks">📢</a></td>
